@@ -1,3 +1,6 @@
+
+<img width="1100px" src='Navy Blue Geometric Technology LinkedIn Banner.gif'/>
+
 <p align="center">
   
   
