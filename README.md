@@ -50,7 +50,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-![](https://github-profile-trophy.vercel.app/?username=tejaspedge&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Vikas23sharma&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
@@ -60,7 +60,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
  </div>
 
-[![](https://visitcount.itsvg.in/api?id=SurajSingh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Vikas23sharma&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
