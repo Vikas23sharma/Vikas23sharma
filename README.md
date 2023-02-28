@@ -1,5 +1,6 @@
+![Navy Blue Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/112754659/221795987-a0469229-fade-44b5-ab3c-f8203aeca48b.gif)
 
-<img width="1100px" src='Navy Blue Geometric Technology LinkedIn Banner.gif'/>
+<!-- <img width="1100px" src='Navy Blue Geometric Technology LinkedIn Banner.gif'/> -->
 
 <p align="center">
   
