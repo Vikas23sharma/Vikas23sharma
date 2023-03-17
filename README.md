@@ -23,10 +23,11 @@ An aspiring Full Stack Developer from India. <br> <br>
 
 - ➡️ 🌱 I’m currently learning : *Typescript* <br>
 - ➡️ 📫 How to reach me : **https://github.com/Vikas23sharma** <br>
-- ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br>
-- ➡️ 🌱 I’m aspiring to learn : *Python* <br>
+- ➡️ 🌱 I’m aspiring to learn : *GoLang* <br>
 - ➡️ 📫 Graduated From : **https://www.masaischool.com/** <br>
 - ➡️ ⚡ Fun fact *“Java is to JavaScript what car is to Carpet.”*<br>
+- ➡️ ⚡ My Portfolio - **Vikas23sharma.github.io**<br>
+
 
 ## 🌐 Socials:
 
