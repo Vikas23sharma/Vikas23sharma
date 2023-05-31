@@ -31,7 +31,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-sharma-1a1562257)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-kumar-sharma-1a1562257/)
 
 # 🧑‍💻👩‍💻 Tech Stack:
 
