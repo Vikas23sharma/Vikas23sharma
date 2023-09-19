@@ -47,7 +47,7 @@ An aspiring Full Stack Developer from India. <br> <br>
 
 <!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tejaspedge&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Vikas23sharma&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
  -->
 
